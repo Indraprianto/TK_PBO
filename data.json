@@ -1,9 +1,9 @@
 [
     {
         "jenis": "Makanan",
-        "nama": "nasi uduk",
-        "stok": 1,
-        "harga": 10000,
-        "ekstra": "2026-09-11"
+        "nama": "Indomie Goreng",
+        "stok": 25,
+        "harga": 3500,
+        "ekstra": "2026-12-16"
     }
 ]
